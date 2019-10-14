@@ -1,0 +1,9 @@
+will it work this time
+whats happening? >> notes.txt
+git diff
+done
+git pull
+>> notes.txt
+end
+cat
+echo whats happening
